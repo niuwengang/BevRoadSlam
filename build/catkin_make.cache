@@ -1,2 +1,0 @@
-parking
--DCATKIN_DEVEL_PREFIX=/home/g/workspace/SimpleBevParkingSlam/devel -DCMAKE_INSTALL_PREFIX=/home/g/workspace/SimpleBevParkingSlam/install -G Unix Makefiles
