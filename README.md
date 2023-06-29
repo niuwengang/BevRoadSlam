@@ -1,7 +1,6 @@
 # SimpleBevParkingSlam
 
-探索泊车avp
-
+探索avp
 
 
 
@@ -15,6 +14,19 @@
 | SUPUS | A Simulated Underground Parking Scenario Dataset for Autonomous Driving | 仿真场景，传感器丰富        |
 
 
-A Tightly-coupled Semantic SLAM System with Visual, Inertial and Surround-view Sensors for Autonomous Indoor Parking
-## 
 
+
+## 学业方案
+BeVIS: 完全利用语义元素及IMU紧耦合建图与定位
+
+AVP-SLAM: SVC融合定位信息
+
+
+## 商业化方案
+华为:
+
+大疆：
+
+蔚来: 视觉融合泊车辅助 sapa
+
+小鹏：
